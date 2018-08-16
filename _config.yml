@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Stanisław Jastrzębski
-url:                 http://kudkudak.github.io
+title:               Jakub Chłędowski
+url:                 http://chledowski.github.io
 paginate:            1
 baseurl:             ""
 
@@ -16,9 +16,9 @@ sass:
 
 # About/contact
 author:
-  name:              Stanisław Jastrzębski
-  url:               https://twitter.com/kudkudakp
-  email:             staszek.jastrzebski@gmail.com
+  name:              Jakub Chłędowski
+  url:               https://twitter.com/jchledowski
+  email:             jakub.chledowski@gmail.com
 
 # Gems
 gems:
